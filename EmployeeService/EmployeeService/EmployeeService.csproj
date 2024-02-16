@@ -248,7 +248,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\EmployeeDataAccess\EmployeeDataAccess.csproj">
-      <Project>{870ddf6d-6748-4c09-adcb-f53eb941ae31}</Project>
+      <Project>{b0ad38fe-9bc2-481d-bc07-b648e3a1c0bf}</Project>
       <Name>EmployeeDataAccess</Name>
     </ProjectReference>
   </ItemGroup>

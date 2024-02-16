@@ -25,6 +25,6 @@ namespace EmployeeDataAccess
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Employees> Employees { get; set; }
+        public virtual DbSet<Employee> Employees { get; set; }
     }
 }
