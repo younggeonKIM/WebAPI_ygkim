@@ -11,7 +11,7 @@ using System.Net.Http.Headers;
 
 namespace EmployeeService
 {
-    public class CustomJsonFormatter : JsonMediaTypeFormatter
+    /*public class CustomJsonFormatter : JsonMediaTypeFormatter
     {
         public CustomJsonFormatter()
         {
@@ -23,7 +23,7 @@ namespace EmployeeService
             base.SetDefaultContentHeaders(type, headers, mediaType);
             headers.ContentType = new MediaTypeHeaderValue("application/json");
         }
-    }
+    }*/
 
     public static class WebApiConfig
     {
@@ -40,7 +40,7 @@ namespace EmployeeService
                 defaults: new { id = RouteParameter.Optional }
             );
 
-            config.Formatters.Add(new CustomJsonFormatter());
+            /*config.Formatters.Add(new CustomJsonFormatter());*/
             /*config.Formatters.Remove(config.Formatters.JsonFormatter);*/
             /*config.Formatters.JsonFormatter.SupportedMediaTypes.Add(new System.Net.Http.Headers.MediaTypeHeaderValue("text/html"));*/
             /*config.Formatters.JsonFormatter.SerializerSettings.Formatting = Newtonsoft.Json.Formatting.Indented;*/
