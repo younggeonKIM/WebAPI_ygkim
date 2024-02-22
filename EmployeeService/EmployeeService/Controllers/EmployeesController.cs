@@ -10,7 +10,8 @@ namespace EmployeeService.Controllers
 {
     public class EmployeesController : ApiController
     {
-        public IEnumerable<Employee> Get()
+        [HttpGet]
+        public IEnumerable<Employee> LoadAllEmployees()
         {
             using(EmployeeDBEntities entities = new EmployeeDBEntities())
             {
