@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\EmployeeService",
+    "\\EmployeeService\\EmployeeDataAccess",
+    "\\EmployeeService\\EmployeeService",
+    "\\EmployeeService\\EmployeeService\\Properties",
+    "\\EmployeeService\\EmployeeService\\Scripts",
+    "\\EmployeeService\\EmployeeService\\Views",
+    "\\EmployeeService\\EmployeeService\\Views\\Home",
+    "\\EmployeeService\\EmployeeService\\Views\\Shared",
+    "\\EmployeeService\\packages"
   ],
-  "SelectedNode": "\\C:\\Users\\영건\\git\\WEBAPIStudy",
+  "SelectedNode": "\\EmployeeService\\EmployeeService\\EmployeeService.csproj",
   "PreviewInSolutionExplorer": false
 }
