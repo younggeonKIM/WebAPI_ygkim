@@ -99,3 +99,5 @@ C:\Users\영건\git\WEBAPIStudy\EmployeeService\EmployeeService\obj\Debug\Employ
 C:\Users\영건\git\WEBAPIStudy\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CopyComplete
 C:\Users\영건\git\WEBAPIStudy\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
 C:\Users\영건\git\WEBAPIStudy\EmployeeService\EmployeeService\obj\Debug\EmployeeService.pdb
+C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.AssemblyReference.cache
+C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
