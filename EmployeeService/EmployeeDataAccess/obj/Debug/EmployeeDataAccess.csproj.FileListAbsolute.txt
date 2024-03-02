@@ -14,11 +14,8 @@ C:\Users\영건\git\WEBAPIStudy\EmployeeService\EmployeeDataAccess\obj\Debug\Emp
 C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
 C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
 C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
-C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
-C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.AssemblyReference.cache
 C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
 C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
 C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
 C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
-C:\Users\영건\git\WEBAPIStudy_2\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.AssemblyReference.cache
